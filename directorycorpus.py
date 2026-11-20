@@ -1,4 +1,4 @@
-from ast import Str
+# from ast import Str # no use and newr python(>= python 3.14) doesn't support
 import os
 from pyclbr import Function
 from typing import Callable, Iterable, Iterator
